@@ -272,5 +272,45 @@
       </mj-group>
     </mj-section>
     <!-- ======> / 4 Column <====== -->
+    <!-- ======> White Space <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="30px" />
+      </mj-column>
+    </mj-section>
+    <!-- ======> / White Space <====== -->
+    <!-- ======> Footer <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text align="center" font-size="21px" font-weight="700" text-transform="uppercase" letter-spacing="1px">
+          <a href="#" style="color: #222222;">Tread Lighter.</a>
+        </mj-text>
+        <mj-text align="center" padding-top="30px">
+          <a href="#" style="padding: 0 6px;">
+            <img src="https://i.ibb.co/5jh99G7/instagram.png" alt="Instagram" style="height: 45px;">
+          </a>
+          <a href="#" style="padding: 0 6px;">
+            <img src="https://i.ibb.co/y04q4gz/pinterest.png" alt="Pinterest" style="height: 45px;">
+          </a>
+          <a href="#" style="padding: 0 6px;">
+            <img src="https://i.ibb.co/m0JYqQr/facebook.png" alt="Facebook" style="height: 45px;">
+          </a>
+          <a href="#" style="padding: 0 6px;">
+            <img src="https://i.ibb.co/MVR3tW8/twitter.png" alt="Twitter" style="height: 45px;">
+          </a>
+        </mj-text> 
+        <mj-text align="center" padding-top="21px">
+          <a href="#">
+            <img src="https://i.ibb.co/VD3dkg1/app-store.png" alt="App Store" style="width: 120px;">
+          </a>
+        </mj-text>
+        <mj-text align="center" padding-top="45px">
+          <p style="font-size: 12px; line-height: 21px; color: #666666;">©️ 2022 Allbirds, Inc.</p>
+          <p style="font-size: 12px; line-height: 21px; color: #666666;">730 Montgomery St. San Francisco, CA 94111</p>
+          <a href="#" style="font-size: 12px; line-height: 21px; text-decoration: underline; color: #666666;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Footer <====== -->
   </mj-body>
 </mjml>
