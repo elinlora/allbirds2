@@ -281,7 +281,7 @@
     <!-- ======> / White Space <====== -->
     <!-- ======> Footer <====== -->
     <mj-section background-color="#ffffff">
-      <mj-column>
+      <mj-column padding-bottom="45px">
         <mj-text align="center" font-size="21px" font-weight="700" text-transform="uppercase" letter-spacing="1px">
           <a href="#" style="color: #222222;">Tread Lighter.</a>
         </mj-text>
