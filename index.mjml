@@ -16,6 +16,7 @@
       <mj-section padding="0" />
       <mj-column padding="0" />
       <mj-image padding="0" />
+      <mj-button padding="0" />
 
     </mj-attributes>
 
@@ -47,7 +48,11 @@
   <mj-body background-color="#f6f6f6">
     <!-- ======> Header <====== -->
     <!-- <mj-include path="components/header.mjml" /> -->
-    
+    <mj-section>
+      <mj-column>
+        
+      </mj-column>
+    </mj-section>
     <!-- ======> / Header <====== -->
   </mj-body>
 </mjml>
