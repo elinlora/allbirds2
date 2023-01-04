@@ -98,5 +98,19 @@
       </mj-column>
     </mj-section>
     <!-- ======> / Hero Copy & CTA <====== -->
+    <!-- ======> Tree Flyer 1 <====== -->
+    <mj-section background-color="#d9d9d9">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-text align="center" font-size="21px" font-weight="700" line-height="24px" color="#111111">
+            Great for <br> distance runs
+          </mj-text>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-image src="https://i.ibb.co/zRJHLdw/tree-flyers-1.png" alt="Tree Flyer" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- ======> / Tree Flyer 1 <====== -->
   </mj-body>
 </mjml>
