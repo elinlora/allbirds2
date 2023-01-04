@@ -71,5 +71,12 @@
       </mj-column>
     </mj-section>
     <!-- ======> / Header <====== -->
+    <!-- ======> Hero Imaage <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image href="#" src="https://i.ibb.co/0Z3rrgZ/allbirds-hero.gif" alt="Tree Flyer" />
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Hero Image <====== -->
   </mj-body>
 </mjml>
