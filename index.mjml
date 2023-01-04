@@ -126,5 +126,19 @@
       </mj-group>
     </mj-section>
     <!-- ======> / Tree Flyer 2 <====== -->
+    <!-- ======> Tree Flyer 3 <====== -->
+    <mj-section background-color="#d9d9d9">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-text align="center" font-size="21px" font-weight="700" line-height="24px" color="#111111">
+            Stabilizes <br> every step
+          </mj-text>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-image href="#" src="https://i.ibb.co/QJ41wW2/tree-flyers-3.png" alt="Tree Flyer" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- ======> / Tree Flyer 3 <====== -->
   </mj-body>
 </mjml>
