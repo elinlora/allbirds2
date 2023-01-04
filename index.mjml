@@ -140,5 +140,19 @@
       </mj-group>
     </mj-section>
     <!-- ======> / Tree Flyer 3 <====== -->
+    <!-- ======> Tree Flyer 4 <====== -->
+    <mj-section background-color="#d9d9d9" direction="rtl">
+      <mj-group direction="rtl">
+        <mj-column vertical-align="middle">
+          <mj-text align="center" font-size="21px" font-weight="700" line-height="24px" color="#111111">
+            Grippy Natural <br> rubber treads
+          </mj-text>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-image href="#" src="https://i.ibb.co/8XbNSdt/tree-flyers-4.png" alt="Tree Flyer" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- ======> / Tree Flyer 4 <====== -->
   </mj-body>
 </mjml>
