@@ -242,5 +242,35 @@
       </mj-column>
     </mj-section>
     <!-- ======> / Navigation <====== -->
+    <!-- ======> 4 Column <====== -->
+    <mj-section background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="30px 0">
+          <mj-image src="https://i.ibb.co/3RWyyHG/planet.png" alt="Planet" width="90px" />
+          <mj-text align="center" font-weight="600" line-height="18px">
+            Tread Lighter <br> On The Planet
+          </mj-text>
+        </mj-column>
+        <mj-column padding="30px 0">
+          <mj-image src="https://i.ibb.co/vLY4GZV/calendar.png" alt="Calendar" width="90px" />
+          <mj-text align="center" font-weight="600" line-height="18px">
+            Try Them For <br> 30 Days
+          </mj-text>
+        </mj-column>
+        <mj-column padding="30px 0">
+          <mj-image src="https://i.ibb.co/XbCPcZN/shipping.png" alt="Shipping" width="90px" />
+          <mj-text align="center" font-weight="600" line-height="18px">
+            Free Shipping <br> &amp; Free Returns
+          </mj-text>
+        </mj-column>
+        <mj-column padding="30px 0">
+          <mj-image src="https://i.ibb.co/hFbG8xG/find.png" alt="Planet" width="90px" />
+          <mj-text align="center" font-weight="600" line-height="18px">
+            Find A Store <br> Near You
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- ======> / 4 Column <====== -->
   </mj-body>
 </mjml>
